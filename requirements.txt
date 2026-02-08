@@ -1,0 +1,13 @@
+numpy
+scipy
+matplotlib
+pandas
+torch
+torchvision
+torchaudio
+plotly
+tqdm
+
+Install via
+bash:
+pip install -r requirements.txt
